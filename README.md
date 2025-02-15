@@ -1,0 +1,1 @@
+This repository demonstrates a common error in HTML where an unclosed tag within innerHTML can lead to unexpected behavior. The bug.html file shows the problematic code, while bugSolution.html offers a corrected version.
